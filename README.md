@@ -1,6 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:050505,55:111113,100:991b1b&amp;text=Camden%20Francisco&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=36&amp;desc=React%20%7C%20Automation%20%7C%20Desktop%20Systems&amp;descAlignY=58&amp;animation=fadeIn" alt="Camden Francisco banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:050505,55:111113,100:991b1b&amp;text=Camden%20Francisco&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=36&amp;desc=React%20%7C%20Automation%20%7C%20Desktop%20Systems&amp;descAlignY=58&amp;animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:050505,55:111113,100:991b1b&amp;text=Camden%20Francisco&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=36&amp;desc=React%20%7C%20Automation%20%7C%20Desktop%20Systems&amp;descAlignY=58&amp;animation=fadeIn" alt="Camden Francisco banner">
+  </picture>
 
   <p>
     <strong>Full Stack Engineer</strong> building practical software across web apps, automation pipelines, and desktop systems.
@@ -123,15 +126,11 @@ I build software that helps teams move faster: clean frontends, automated handof
   </tr>
 </table>
 
-## GitHub Snapshot
+## GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/codingbrain01" target="_blank" rel="noopener noreferrer">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codingbrain01&amp;show_icons=true&amp;hide_border=true&amp;title_color=ef4444&amp;icon_color=ef4444&amp;text_color=e5e7eb&amp;bg_color=111113">
-  </a>
-  <a href="https://github.com/codingbrain01?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbrain01&amp;layout=compact&amp;hide_border=true&amp;title_color=ef4444&amp;text_color=e5e7eb&amp;bg_color=111113">
-  </a>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codingbrain01&amp;show_icons=true&amp;hide_border=true&amp;title_color=ef4444&amp;icon_color=ef4444&amp;text_color=e5e7eb&amp;bg_color=111113">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbrain01&amp;layout=compact&amp;hide_border=true&amp;title_color=ef4444&amp;text_color=e5e7eb&amp;bg_color=111113">
 </div>
 
 ## Current Focus
