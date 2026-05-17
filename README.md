@@ -1,98 +1,118 @@
-<h1 align="center">Hey there, I'm Camden 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=900&amp;color=EF4444&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Full+Stack+Engineer;React+%2B+TypeScript+Builder;Automation+Pipeline+Developer;Electron+Kiosk+System+Builder;Turning+manual+workflows+into+software" alt="Typing intro" />
+# Camden Francisco
+
+**I build the software layer between a business problem and the team that has to run it.**
+
+<a href="https://codingbrain.dev/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+ · 
+<a href="mailto:codingbrain01@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+ · 
+<a href="https://www.linkedin.com/in/camden-francisco-1615033b8" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
+</div>
+
+```txt
+STATUS       Available for remote work
+ROLE         Full Stack Engineer
+FOCUS        React apps, automation pipelines, desktop systems
+LOCATION     Remote
+SIGNATURE    Practical software that reduces manual work
+```
+
+## Operating System
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>01 / Interface</strong><br/>
+      React, TypeScript, Vite, Tailwind CSS, landing pages, dashboards, and client-facing tools.
+    </td>
+    <td width="33%">
+      <strong>02 / Automation</strong><br/>
+      Telegram Bot API, Google Sheets, form routing, lead capture, reporting, and team handoffs.
+    </td>
+    <td width="33%">
+      <strong>03 / Control</strong><br/>
+      Electron, kiosk mode, Windows workflows, deployment, SSL, domains, and monitoring.
+    </td>
+  </tr>
+</table>
+
+## Selected Systems
+
+<table>
+  <tr>
+    <td width="20%"><strong>Utility Hub</strong></td>
+    <td width="55%">Client-side utility dashboard for conversions, calculations, color formats, Base64, and quick dev tasks.</td>
+    <td width="25%"><a href="https://utilityhubphi.vercel.app/" target="_blank" rel="noopener noreferrer">Live</a></td>
+  </tr>
+  <tr>
+    <td><strong>AttendTrack</strong></td>
+    <td>Role-based attendance tracker with employee, admin, and main-control workflows.</td>
+    <td><a href="https://attendanctrackerphi.vercel.app" target="_blank" rel="noopener noreferrer">Live</a></td>
+  </tr>
+  <tr>
+    <td><strong>CrockOnCrockAI</strong></td>
+    <td>Streaming AI chat assistant with visitor limits, owner mode, and persistent sessions.</td>
+    <td><a href="https://crockoncrockai.vercel.app" target="_blank" rel="noopener noreferrer">Live</a></td>
+  </tr>
+  <tr>
+    <td><strong>Telegram Pipeline</strong></td>
+    <td>Static form submissions converted into structured real-time Telegram notifications.</td>
+    <td>Internal</td>
+  </tr>
+  <tr>
+    <td><strong>Sheets Pipeline</strong></td>
+    <td>Project inquiry forms captured into clean Google Sheets rows for follow-up and reporting.</td>
+    <td>Internal</td>
+  </tr>
+  <tr>
+    <td><strong>Kiosk System</strong></td>
+    <td>Electron-based locked-down desktop workflow for controlled Windows environments.</td>
+    <td>Internal</td>
+  </tr>
+</table>
+
+## Toolchain
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-111113?style=flat-square&logo=react&logoColor=ef4444">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111113?style=flat-square&logo=typescript&logoColor=ef4444">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-111113?style=flat-square&logo=vite&logoColor=ef4444">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111113?style=flat-square&logo=tailwindcss&logoColor=ef4444">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-111113?style=flat-square&logo=electron&logoColor=ef4444">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111113?style=flat-square&logo=nodedotjs&logoColor=ef4444">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-111113?style=flat-square&logo=php&logoColor=ef4444">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111113?style=flat-square&logo=vercel&logoColor=ef4444">
 </p>
 
-<p align="center">
-  <a href="https://codingbrain.dev/" target="_blank" rel="noopener noreferrer">Portfolio</a>
-  ·
-  <a href="mailto:codingbrain01@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
-  ·
-  <a href="https://www.linkedin.com/in/camden-francisco-1615033b8" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-</p>
+```txt
+FRONTEND       React / TypeScript / Vite / Tailwind CSS
+AUTOMATION     Telegram Bot API / Google Sheets API / REST APIs
+DESKTOP        Electron / Kiosk Mode / Windows API
+DATABASE       MySQL / PostgreSQL / Supabase
+INFRA          Vercel / Hostinger VPS / SSL / Domains / Monitoring
+LANGUAGES      JavaScript / TypeScript / PHP / Java / C++ / VB.NET
+```
 
----
+## Current Build Mode
 
-### Who Am I?
+- Sharpening portfolio and project presentation
+- Building stronger contact and lead-capture flows
+- Hardening APIs with CSRF protection, validation, timeouts, and security tests
+- Creating internal systems that replace repetitive manual work
 
-> I build practical software for teams that need things to work.
-> Clean interfaces, automated handoffs, internal tools, and desktop workflows.
+## Contact Packet
 
-- Full Stack Engineer focused on **React, TypeScript, automation, and desktop systems**
-- I build web apps, landing pages, dashboards, and internal tools
-- I connect forms to real workflows with **Telegram Bot API** and **Google Sheets**
-- I build controlled desktop experiences with **Electron** and kiosk-mode workflows
-- I care about shipping: deployment, domains, SSL, monitoring, and production hardening
+```txt
+PORTFOLIO  https://codingbrain.dev
+EMAIL      codingbrain01@gmail.com
+LINKEDIN   linkedin.com/in/camden-francisco-1615033b8
+```
 
----
+<div align="center">
 
-### Tech Arsenal
+**Open for remote web apps, automation systems, internal tools, and desktop workflows.**
 
-#### Frontend
-![React](https://img.shields.io/badge/React-111113?style=for-the-badge&logo=react&logoColor=ef4444)
-![TypeScript](https://img.shields.io/badge/TypeScript-111113?style=for-the-badge&logo=typescript&logoColor=ef4444)
-![Vite](https://img.shields.io/badge/Vite-111113?style=for-the-badge&logo=vite&logoColor=ef4444)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111113?style=for-the-badge&logo=tailwindcss&logoColor=ef4444)
-
-#### Automation and Backend
-![Node.js](https://img.shields.io/badge/Node.js-111113?style=for-the-badge&logo=nodedotjs&logoColor=ef4444)
-![PHP](https://img.shields.io/badge/PHP-111113?style=for-the-badge&logo=php&logoColor=ef4444)
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-111113?style=for-the-badge&logo=telegram&logoColor=ef4444)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-111113?style=for-the-badge&logo=googlesheets&logoColor=ef4444)
-
-#### Desktop and Infrastructure
-![Electron](https://img.shields.io/badge/Electron-111113?style=for-the-badge&logo=electron&logoColor=ef4444)
-![Windows](https://img.shields.io/badge/Windows_API-111113?style=for-the-badge&logo=windows&logoColor=ef4444)
-![Vercel](https://img.shields.io/badge/Vercel-111113?style=for-the-badge&logo=vercel&logoColor=ef4444)
-![Git](https://img.shields.io/badge/Git-111113?style=for-the-badge&logo=git&logoColor=ef4444)
-
----
-
-### What I've Built
-
-- **Utility Hub** — Client-side utility dashboard with converters, calculator, color tools, Base64 tools, clipboard actions, and dark mode.  
-  <a href="https://utilityhubphi.vercel.app/" target="_blank" rel="noopener noreferrer">Open Utility Hub</a>
-
-- **AttendTrack** — Role-based attendance tracker with employee, admin, and main-control workflows.  
-  <a href="https://attendanctrackerphi.vercel.app" target="_blank" rel="noopener noreferrer">Open AttendTrack</a>
-
-- **CrockOnCrockAI** — Streaming AI chat assistant with owner and visitor modes, rate limits, and persistent sessions.  
-  <a href="https://crockoncrockai.vercel.app" target="_blank" rel="noopener noreferrer">Open CrockOnCrockAI</a>
-
-- **Telegram Middleware Pipeline** — Form submissions routed into structured Telegram messages for real-time lead notifications.
-
-- **Google Sheets Form Pipeline** — Project inquiry forms connected to clean Google Sheets rows for tracking and follow-up.
-
-- **Native Kiosk Monitoring System** — Electron-based locked-down desktop workflow for controlled Windows environments.
-
----
-
-### Current Focus
-
-- Building production-ready React tools and landing pages
-- Improving form automation for lead capture and reporting
-- Strengthening contact form security, CSRF protection, and deployment readiness
-- Turning manual business workflows into simple internal systems
-
----
-
-### GitHub Signals
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codingbrain01&amp;style=for-the-badge&amp;color=ef4444" alt="Profile views" />
-</p>
-
----
-
-### Let's Connect
-
-- Portfolio: <a href="https://codingbrain.dev/" target="_blank" rel="noopener noreferrer">codingbrain.dev</a>
-- Email: <a href="mailto:codingbrain01@gmail.com" target="_blank" rel="noopener noreferrer">codingbrain01@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/camden-francisco-1615033b8" target="_blank" rel="noopener noreferrer">Camden Francisco</a>
-
----
-
-<p align="center">
-  <strong>Open for remote web apps, automation systems, internal tools, and desktop workflows.</strong>
-</p>
+</div>
