@@ -1,87 +1,165 @@
-<h1 align="center">Camden Francisco</h1>
+<div align="center">
 
-<p align="center">
-  Full Stack Engineer building React apps, automation pipelines, and desktop systems.
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:050505,55:111113,100:991b1b&amp;text=Camden%20Francisco&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=36&amp;desc=React%20%7C%20Automation%20%7C%20Desktop%20Systems&amp;descAlignY=58&amp;animation=fadeIn" alt="Camden Francisco banner" />
 
-<p align="center">
-  <a href="https://codingbrain.dev/">Portfolio</a> ·
-  <a href="mailto:codingbrain01@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/camden-francisco-1615033b8">LinkedIn</a>
-</p>
+  <p>
+    <strong>Full Stack Engineer</strong> building practical software across web apps, automation pipelines, and desktop systems.
+  </p>
 
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-111113?style=for-the-badge&logo=react&logoColor=ef4444">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111113?style=for-the-badge&logo=typescript&logoColor=ef4444">
-  <img alt="Electron" src="https://img.shields.io/badge/Electron-111113?style=for-the-badge&logo=electron&logoColor=ef4444">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111113?style=for-the-badge&logo=nodedotjs&logoColor=ef4444">
-</p>
+  <p>
+    <a href="https://codingbrain.dev/" target="_blank" rel="noopener noreferrer"><strong>Portfolio</strong></a>
+    &nbsp;•&nbsp;
+    <a href="mailto:codingbrain01@gmail.com" target="_blank" rel="noopener noreferrer"><strong>Email</strong></a>
+    &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/in/camden-francisco-1615033b8" target="_blank" rel="noopener noreferrer"><strong>LinkedIn</strong></a>
+  </p>
+
+  <p>
+    <img alt="React" src="https://img.shields.io/badge/React-111113?style=for-the-badge&amp;logo=react&amp;logoColor=ef4444">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111113?style=for-the-badge&amp;logo=typescript&amp;logoColor=ef4444">
+    <img alt="Electron" src="https://img.shields.io/badge/Electron-111113?style=for-the-badge&amp;logo=electron&amp;logoColor=ef4444">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111113?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=ef4444">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111113?style=for-the-badge&amp;logo=vercel&amp;logoColor=ef4444">
+  </p>
+
+</div>
 
 ---
 
-## About
+## What I Do
 
-I build practical software for teams that need things to work: fast frontends, automated handoffs, internal tools, and desktop workflows that handle real operational requirements.
+I build software that helps teams move faster: clean frontends, automated handoffs, internal tools, desktop workflows, and deployment-ready systems.
 
-My strongest work sits at the intersection of UI, automation, and deployment. I like turning manual processes into systems people can actually use.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Web Apps</h3>
+      <p>React, TypeScript, Vite, Tailwind CSS, responsive interfaces, dashboards, landing pages, and client-facing tools.</p>
+    </td>
+    <td width="50%">
+      <h3>Automation</h3>
+      <p>Telegram Bot API, Google Sheets workflows, form routing, lead capture, alerts, and lightweight CRM-style systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Desktop Systems</h3>
+      <p>Electron apps, kiosk mode, Windows-focused workflows, controlled environments, and operational software.</p>
+    </td>
+    <td width="50%">
+      <h3>Deployment</h3>
+      <p>Vercel, VPS setup, domains, SSL, monitoring, production hardening, and keeping shipped projects reliable.</p>
+    </td>
+  </tr>
+</table>
 
-## What I Build
+## Featured Work
 
-| Area | Work |
-| --- | --- |
-| Web apps | React, TypeScript, Vite, Tailwind CSS, responsive interfaces |
-| Automation | Telegram Bot API, Google Sheets workflows, form routing, lead capture |
-| Desktop systems | Electron apps, kiosk mode, Windows-focused workflows |
-| Internal tools | Dashboards, role-based workflows, lightweight admin systems |
-| Deployment | Vercel, VPS setup, domains, SSL, monitoring, production hardening |
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://utilityhubphi.vercel.app/" target="_blank" rel="noopener noreferrer">Utility Hub</a></h3>
+      <p>A client-side utility dashboard with converters, calculator, color tools, Base64 tools, dark mode, and clipboard workflows.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://attendanctrackerphi.vercel.app" target="_blank" rel="noopener noreferrer">AttendTrack</a></h3>
+      <p>A role-based attendance tracker with employee, admin, and main-control workflows for lightweight workforce management.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://crockoncrockai.vercel.app" target="_blank" rel="noopener noreferrer">CrockOnCrockAI</a></h3>
+      <p>A streaming AI chat assistant with owner and visitor modes, rate limits, persistent sessions, and clean chat UX.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Groq</code> <code>Vercel</code></p>
+    </td>
+    <td width="50%">
+      <h3>Telegram Middleware Pipeline</h3>
+      <p>Routes static form submissions into structured Telegram messages for real-time lead notifications and team handoff.</p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>Telegram Bot API</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Google Sheets Form Pipeline</h3>
+      <p>Captures project inquiries into organized Google Sheets rows for follow-up, reporting, and lightweight lead tracking.</p>
+      <p><code>TypeScript</code> <code>Google Sheets API</code> <code>Automation</code></p>
+    </td>
+    <td width="50%">
+      <h3>Native Kiosk Monitoring System</h3>
+      <p>A locked-down desktop workflow for controlled Windows environments with kiosk behavior and operational monitoring.</p>
+      <p><code>Electron</code> <code>TypeScript</code> <code>Windows API</code></p>
+    </td>
+  </tr>
+</table>
 
-## Featured Projects
+## Stack
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Utility Hub](https://utilityhubphi.vercel.app/) | Client-side utility dashboard with converters, calculator, color tools, and Base64 tools | React, TypeScript, Vite, Tailwind CSS |
-| [AttendTrack](https://attendanctrackerphi.vercel.app) | Role-based attendance tracker with employee, admin, and main-control workflows | React, TypeScript, Tailwind CSS |
-| [CrockOnCrockAI](https://crockoncrockai.vercel.app) | Streaming AI chat assistant with owner/visitor modes and rate limiting | React, TypeScript, Groq, Vercel |
-| Telegram Middleware Pipeline | Routes form submissions into structured Telegram messages | Node.js, TypeScript, Telegram Bot API |
-| Google Sheets Form Pipeline | Captures project inquiries into clean lead-tracking sheets | TypeScript, Google Sheets API |
-| Native Kiosk Monitoring System | Locked-down desktop workflow for controlled Windows environments | Electron, TypeScript, Windows API |
-
-## Tech Stack
-
-```txt
-Frontend       React, TypeScript, Vite, Tailwind CSS, HTML, CSS
-Backend        Node.js, PHP, REST APIs
-Automation     Telegram Bot API, Google Sheets API, form-to-workflow systems
-Desktop        Electron.js, Kiosk Mode, Windows API
-Database       MySQL, PostgreSQL, Supabase
-Infrastructure Vercel, Hostinger VPS, SSL, domains, deployment monitoring
-Languages      JavaScript, TypeScript, PHP, Java, C++, VB.NET
-```
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, TypeScript, Vite, Tailwind CSS, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, PHP, REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>Automation</strong></td>
+    <td>Telegram Bot API, Google Sheets API, form-to-workflow systems</td>
+  </tr>
+  <tr>
+    <td><strong>Desktop</strong></td>
+    <td>Electron.js, Kiosk Mode, Windows API</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>MySQL, PostgreSQL, Supabase</td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>Vercel, Hostinger VPS, domains, SSL, deployment monitoring</td>
+  </tr>
+</table>
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codingbrain01&show_icons=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=e5e7eb&bg_color=111113">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbrain01&layout=compact&hide_border=true&title_color=ef4444&text_color=e5e7eb&bg_color=111113">
-</p>
+<div align="center">
+  <a href="https://github.com/codingbrain01" target="_blank" rel="noopener noreferrer">
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codingbrain01&amp;show_icons=true&amp;hide_border=true&amp;title_color=ef4444&amp;icon_color=ef4444&amp;text_color=e5e7eb&amp;bg_color=111113">
+  </a>
+  <a href="https://github.com/codingbrain01?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbrain01&amp;layout=compact&amp;hide_border=true&amp;title_color=ef4444&amp;text_color=e5e7eb&amp;bg_color=111113">
+  </a>
+</div>
 
 ## Current Focus
 
 - Building production-ready React tools and landing pages
-- Improving automation workflows for lead capture and follow-up
+- Improving form automation for lead capture, follow-up, and reporting
 - Strengthening deployment, security, and reliability practices
 - Turning internal business processes into simple software systems
 
 ## Contact
 
-I'm open to remote development work, internal tool builds, automation projects, and full-stack product work.
-
-- Portfolio: [codingbrain.dev](https://codingbrain.dev/)
-- Email: [codingbrain01@gmail.com](mailto:codingbrain01@gmail.com)
-- LinkedIn: [Camden Francisco](https://www.linkedin.com/in/camden-francisco-1615033b8)
+<table>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://codingbrain.dev/" target="_blank" rel="noopener noreferrer">codingbrain.dev</a></td>
+  </tr>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:codingbrain01@gmail.com" target="_blank" rel="noopener noreferrer">codingbrain01@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/camden-francisco-1615033b8" target="_blank" rel="noopener noreferrer">Camden Francisco</a></td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  React + TypeScript | Automation | Electron | Deployment | Practical software
-</p>
+<div align="center">
+  <strong>React + TypeScript | Automation | Electron | Deployment | Practical software</strong>
+</div>
