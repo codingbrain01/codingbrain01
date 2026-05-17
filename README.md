@@ -10,6 +10,12 @@
  · 
 <a href="https://www.linkedin.com/in/camden-francisco-1615033b8" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
+<br/><br/>
+
+<img alt="Available" src="https://img.shields.io/badge/AVAILABLE-Remote_Work-111113?style=for-the-badge&amp;labelColor=111113&amp;color=991b1b">
+<img alt="Focus" src="https://img.shields.io/badge/FOCUS-Systems_%2B_Automation-111113?style=for-the-badge&amp;labelColor=111113&amp;color=dc2626">
+<img alt="Style" src="https://img.shields.io/badge/STYLE-Crimson_%2B_Black-111113?style=for-the-badge&amp;labelColor=111113&amp;color=7f1d1d">
+
 </div>
 
 ```txt
@@ -20,71 +26,71 @@ LOCATION     Remote
 SIGNATURE    Practical software that reduces manual work
 ```
 
-## Operating System
+## ⚙️ Operating System
 
 <table>
   <tr>
     <td width="33%">
-      <strong>01 / Interface</strong><br/>
+      <strong>🖥️ 01 / Interface</strong><br/>
       React, TypeScript, Vite, Tailwind CSS, landing pages, dashboards, and client-facing tools.
     </td>
     <td width="33%">
-      <strong>02 / Automation</strong><br/>
+      <strong>🔁 02 / Automation</strong><br/>
       Telegram Bot API, Google Sheets, form routing, lead capture, reporting, and team handoffs.
     </td>
     <td width="33%">
-      <strong>03 / Control</strong><br/>
+      <strong>🛡️ 03 / Control</strong><br/>
       Electron, kiosk mode, Windows workflows, deployment, SSL, domains, and monitoring.
     </td>
   </tr>
 </table>
 
-## Selected Systems
+## 🧩 Selected Systems
 
 <table>
   <tr>
     <td width="20%"><strong>Utility Hub</strong></td>
     <td width="55%">Client-side utility dashboard for conversions, calculations, color formats, Base64, and quick dev tasks.</td>
-    <td width="25%"><a href="https://utilityhubphi.vercel.app/" target="_blank" rel="noopener noreferrer">Live</a></td>
+    <td width="25%"><a href="https://utilityhubphi.vercel.app/" target="_blank" rel="noopener noreferrer">🔴 Open live</a></td>
   </tr>
   <tr>
     <td><strong>AttendTrack</strong></td>
     <td>Role-based attendance tracker with employee, admin, and main-control workflows.</td>
-    <td><a href="https://attendanctrackerphi.vercel.app" target="_blank" rel="noopener noreferrer">Live</a></td>
+    <td><a href="https://attendanctrackerphi.vercel.app" target="_blank" rel="noopener noreferrer">🔴 Open live</a></td>
   </tr>
   <tr>
     <td><strong>CrockOnCrockAI</strong></td>
     <td>Streaming AI chat assistant with visitor limits, owner mode, and persistent sessions.</td>
-    <td><a href="https://crockoncrockai.vercel.app" target="_blank" rel="noopener noreferrer">Live</a></td>
+    <td><a href="https://crockoncrockai.vercel.app" target="_blank" rel="noopener noreferrer">🔴 Open live</a></td>
   </tr>
   <tr>
     <td><strong>Telegram Pipeline</strong></td>
     <td>Static form submissions converted into structured real-time Telegram notifications.</td>
-    <td>Internal</td>
+    <td>⚫ Internal</td>
   </tr>
   <tr>
     <td><strong>Sheets Pipeline</strong></td>
     <td>Project inquiry forms captured into clean Google Sheets rows for follow-up and reporting.</td>
-    <td>Internal</td>
+    <td>⚫ Internal</td>
   </tr>
   <tr>
     <td><strong>Kiosk System</strong></td>
     <td>Electron-based locked-down desktop workflow for controlled Windows environments.</td>
-    <td>Internal</td>
+    <td>⚫ Internal</td>
   </tr>
 </table>
 
-## Toolchain
+## 🧰 Toolchain
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-111113?style=flat-square&logo=react&logoColor=ef4444">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111113?style=flat-square&logo=typescript&logoColor=ef4444">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-111113?style=flat-square&logo=vite&logoColor=ef4444">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111113?style=flat-square&logo=tailwindcss&logoColor=ef4444">
-  <img alt="Electron" src="https://img.shields.io/badge/Electron-111113?style=flat-square&logo=electron&logoColor=ef4444">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111113?style=flat-square&logo=nodedotjs&logoColor=ef4444">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-111113?style=flat-square&logo=php&logoColor=ef4444">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111113?style=flat-square&logo=vercel&logoColor=ef4444">
+  <img alt="React" src="https://img.shields.io/badge/React-111113?style=flat-square&amp;logo=react&amp;logoColor=ef4444">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111113?style=flat-square&amp;logo=typescript&amp;logoColor=ef4444">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-111113?style=flat-square&amp;logo=vite&amp;logoColor=ef4444">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111113?style=flat-square&amp;logo=tailwindcss&amp;logoColor=ef4444">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-111113?style=flat-square&amp;logo=electron&amp;logoColor=ef4444">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111113?style=flat-square&amp;logo=nodedotjs&amp;logoColor=ef4444">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-111113?style=flat-square&amp;logo=php&amp;logoColor=ef4444">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111113?style=flat-square&amp;logo=vercel&amp;logoColor=ef4444">
 </p>
 
 ```txt
@@ -96,20 +102,29 @@ INFRA          Vercel / Hostinger VPS / SSL / Domains / Monitoring
 LANGUAGES      JavaScript / TypeScript / PHP / Java / C++ / VB.NET
 ```
 
-## Current Build Mode
+## 🔥 Current Build Mode
 
-- Sharpening portfolio and project presentation
-- Building stronger contact and lead-capture flows
-- Hardening APIs with CSRF protection, validation, timeouts, and security tests
-- Creating internal systems that replace repetitive manual work
+- 🔴 Sharpening portfolio and project presentation
+- ⚫ Building stronger contact and lead-capture flows
+- 🛡️ Hardening APIs with CSRF protection, validation, timeouts, and security tests
+- ⚙️ Creating internal systems that replace repetitive manual work
 
-## Contact Packet
+## 📡 Contact Packet
 
-```txt
-PORTFOLIO  https://codingbrain.dev
-EMAIL      codingbrain01@gmail.com
-LINKEDIN   linkedin.com/in/camden-francisco-1615033b8
-```
+<table>
+  <tr>
+    <td width="22%"><strong>🌐 Portfolio</strong></td>
+    <td><a href="https://codingbrain.dev/" target="_blank" rel="noopener noreferrer">https://codingbrain.dev</a></td>
+  </tr>
+  <tr>
+    <td><strong>📬 Email</strong></td>
+    <td><a href="mailto:codingbrain01@gmail.com" target="_blank" rel="noopener noreferrer">codingbrain01@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>🔗 LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/camden-francisco-1615033b8" target="_blank" rel="noopener noreferrer">linkedin.com/in/camden-francisco-1615033b8</a></td>
+  </tr>
+</table>
 
 <div align="center">
 
