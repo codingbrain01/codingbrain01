@@ -1,8 +1,8 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:050505,55:111113,100:991b1b&amp;text=Camden%20Francisco&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=36&amp;desc=React%20%7C%20Automation%20%7C%20Desktop%20Systems&amp;descAlignY=58&amp;animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:050505,55:111113,100:991b1b&amp;text=Camden%20Francisco&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=36&amp;desc=React%20%7C%20Automation%20%7C%20Desktop%20Systems&amp;descAlignY=58&amp;animation=fadeIn" alt="Camden Francisco banner">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;color=0:050505,60:111113,100:991b1b&amp;text=Hi,%20I'm%20Camden&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=42&amp;animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;color=0:050505,60:111113,100:991b1b&amp;text=Hi,%20I'm%20Camden&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=42&amp;animation=fadeIn" alt="Hi, I'm Camden">
   </picture>
 
   <p>
@@ -125,13 +125,6 @@ I build software that helps teams move faster: clean frontends, automated handof
     <td>Vercel, Hostinger VPS, domains, SSL, deployment monitoring</td>
   </tr>
 </table>
-
-## GitHub Activity
-
-<div align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codingbrain01&amp;show_icons=true&amp;hide_border=true&amp;title_color=ef4444&amp;icon_color=ef4444&amp;text_color=e5e7eb&amp;bg_color=111113">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbrain01&amp;layout=compact&amp;hide_border=true&amp;title_color=ef4444&amp;text_color=e5e7eb&amp;bg_color=111113">
-</div>
 
 ## Current Focus
 
