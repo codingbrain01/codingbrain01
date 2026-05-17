@@ -1,9 +1,8 @@
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;color=0:050505,60:111113,100:991b1b&amp;text=Hi,%20I'm%20Camden&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=42&amp;animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;color=0:050505,60:111113,100:991b1b&amp;text=Hi,%20I'm%20Camden&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=42&amp;animation=fadeIn" alt="Hi, I'm Camden">
-  </picture>
+  <h1>Hi, I'm Camden Francisco</h1>
+
+  <h3>React · Automation · Desktop Systems</h3>
 
   <p>
     <strong>Full Stack Engineer</strong> building practical software across web apps, automation pipelines, and desktop systems.
